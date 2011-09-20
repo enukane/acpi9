@@ -1,0 +1,11 @@
+*- WTF is this -*
+ACPI driver for Plan 9 and 9front.
+Mainly develeped on 9front :)
+
+*- How to User -*
+TBD
+
+*- THANKS -*
+thanks @m_bird, who gave me an idea to implement power off interface.
+thanks @hdk_2, who teached me how to do power off
+thanks http://stackoverflow.com/questions/3145569/how-to-power-down-the-computer-from-a-freestanding-environment
